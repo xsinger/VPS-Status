@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="normalize.css">
     <link rel="stylesheet" href="sakura.css">
     <style>
+        body {
+            background-image: linear-gradient(135deg, #1b8479 10%, #2f2026 100%);
+        }
         .home {
             padding: 1em;
             margin-top: 3em;
