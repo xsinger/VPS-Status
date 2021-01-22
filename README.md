@@ -6,4 +6,4 @@ PHP需开启`exec`函数。
 
 # 截图
 
-![preview](./preview/Snipaste_2021-01-22_14-35-33.jpg)
+![preview](./preview/Snipaste_2021-01-22_14-57-59.jpg)
