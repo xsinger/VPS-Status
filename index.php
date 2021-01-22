@@ -8,12 +8,12 @@
     <link rel="stylesheet" href="sakura.css">
     <style>
         body {
-            background-image: linear-gradient(135deg, #1b8479 10%, #2f2026 100%);
+            background: #eee;
         }
         .home {
             padding: 1em;
-            margin-top: 3em;
-            background-color: rgba(255, 255, 255, 0.8);
+            margin-top: 20%;
+            background-color: #fff;
         }
     </style>
 </head>
@@ -65,6 +65,5 @@
             echo '</tr></tbody></table>';
         ?>
     </div>
-    <script type="text/javascript" color="255,255,255" opacity='0.7' zIndex="-2" count="200" src="canvas-nest.min.js"></script>
 </body>
 </html>
