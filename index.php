@@ -13,7 +13,7 @@
         .home {
             padding: 1em;
             margin-top: 20%;
-            background-color: #fff;
+            background: #fff;
         }
     </style>
 </head>
