@@ -57,7 +57,7 @@
                 return $memfree;
             }
             //
-            echo '<table><thead><tr><th align="left">磁盘总容量</th><th align="left">磁盘剩余空间</th><th align="left">CPU占有率</th><th align="left">内存占有率</th></tr></thead><tbody><tr>';
+            echo '<table><thead><tr><th align="left">磁盘总容量</th><th align="left">磁盘剩余容量</th><th align="left">CPU占有率</th><th align="left">内存占有率</th></tr></thead><tbody><tr>';
             echo '<td align="left">'.get_disk_total(disk_total_space('.')).'</td>';
             echo '<td align="left">'.get_disk_total(disk_free_space('.')).'</td>';
             echo '<td align="left">'.get_cpufree().'%</td>' ;
